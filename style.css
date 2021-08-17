@@ -1,0 +1,81 @@
+#first-page {
+  background-image: url(images/BG-1.jpg);
+  height: 1080px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#my-work {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  margin: 2.5rem;
+}
+
+.carousel {
+  border: 1px solid;
+}
+
+.carousel-control-prev .carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e") !important;
+}
+
+.css-logo {
+  width: 15rem;
+  height: 20rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.html-logo {
+  width: 20rem;
+  height: 20rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.intro-text-name {
+  color: aliceblue;
+  font-size: 8rem;
+  text-align: center;
+  padding-top: 20rem;
+}
+
+.intro-text-dev {
+  color: aliceblue;
+  font-size: 4rem;
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.js-logo {
+  width: 31.4rem;
+  height: 21rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.karuzela {
+  margin: 10rem 5rem;
+}
+
+.my-work-h1 {
+  font-size: 8rem;
+  text-align: center;
+}
+
+.my-work-p {
+  font-size: 2rem;
+  padding: 2rem;
+}
+
+.picture-page-2 {
+  text-align: center;
+}
+
+.text-page-2 {
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
+  color: aliceblue;
+  text-align: left;
+  font-size: 2rem;
+  padding: 6.5%;
+}
