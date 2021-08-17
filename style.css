@@ -1,3 +1,8 @@
+hr {
+  margin: 4rem 5rem 0;
+  size: 5px;
+}
+
 #first-page {
   background-image: url(images/BG-1.jpg);
   height: 1080px;
@@ -7,12 +12,15 @@
 #my-work {
   font-family: 'Montserrat', sans-serif;
   text-align: left;
-  margin: 2.5rem;
+  padding: 5rem;
+  background-color: black;
+  color: aliceblue;
 }
 
 .carousel {
   /* border: 1px solid; */
-  padding: 5rem 5rem
+  padding: 5rem;
+  margin: 4rem;
 }
 
 .carousel-control-prev .carousel-control-prev-icon {
@@ -27,31 +35,39 @@
 }
 
 .car-sale-image {
-  height: 70%;
-  width: 70%;
-  padding: 1rem;
+  height: 65%;
+  width: 65%;
+  padding: 0.7rem;
   border: 1px solid black;
-  margin: 0 auto;
+  margin: 8px auto;
+  border-radius: 50%;
+  background-color: white;
 }
 
 .github-image {
   height: 70%;
   width: 70%;
-  border: 1px solid black;
+  padding: 0;
+  /* border: 1px solid black; */
+  margin: 8px auto;
+  border-radius: 50%;
+  /* background-color: white; */
 }
 
 .hotel-image {
-  height: 70%;
-  width: 70%;
-  padding: 1rem;
+  height: 65%;
+  width: 65%;
+  padding: 0.7rem;
   border: 1px solid black;
-  margin: 0 auto;
+  margin: 8px auto;
+  border-radius: 50%;
+  background-color: white;
 }
 
 .html-logo {
   width: 20rem;
   height: 20rem;
-  margin: 0 auto;
+  margin: auto;
   padding: 1rem;
 }
 
@@ -83,8 +99,7 @@
 
 .my-work-p {
   font-size: 2rem;
-  margin: 1.5rem;
-  padding-bottom: 5rem;
+  margin: 5rem 0;
   text-align: justify;
   text-justify: inter-word;
 }
