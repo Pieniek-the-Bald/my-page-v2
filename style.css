@@ -65,9 +65,9 @@ hr {
 }
 
 .html-logo {
-  width: 20rem;
+  width: 15rem;
   height: 20rem;
-  margin: auto;
+  margin: 0 auto;
   padding: 1rem;
 }
 
@@ -86,10 +86,10 @@ hr {
 }
 
 .js-logo {
-  width: 31.4rem;
-  height: 21rem;
+  width: 15rem;
+  height: 20rem;
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 .my-work-h1 {
